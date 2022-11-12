@@ -59,11 +59,11 @@ const Contact = () => {
               <div className="contact__info">
                 <h6 className="fw-bold">Contact Information</h6>
                 <p className="section__description mb-0">
-                  123 ZindaBazar, Sylhet, Bangladesh
+                  123 Dinh Chau, Cam Le, Da Nang
                 </p>
                 <div className=" d-flex align-items-center gap-2">
                   <h6 className="fs-6 mb-0">Phone:</h6>
-                  <p className="section__description mb-0">+88683896366</p>
+                  <p className="section__description mb-0">+123456789</p>
                 </div>
 
                 <div className=" d-flex align-items-center gap-2">
